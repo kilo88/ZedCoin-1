@@ -1,26 +1,16 @@
-﻿ZedCoin(ZED) ver 2.1 – A new generation of cyptocurrency that is a descendant of Litecoin. Like its predecessor, it uses the scrypt algorithm as a proof of work scheme.
+﻿ZedCoin(ZED) ver 1.3 – A new generation of cyptocurrency that is a descendant of Litecoin. Like its predecessor, it uses the scrypt algorithm as a proof of work scheme.
 
 - Scrypt Algorithm
 - 1 minute blocks
 - 88 coins per block
 - 120 million total coins
-- Difficulty re-target every 30 blocks
+- Difficulty re-target every block
 - Random x2 bonus 1day/mo
 - Transaction messages supported
 - Coin maturity at 30 block confirmations
 - The block payout will be halved every year, minimum payout 1 coin per block
+- DigiShield
 
-*Bonus payouts, in order to provide some incentive to early adopters.
-
-Day 1: x2 payout
-
-Day 2: x3 payout
-
-Day 3: x5 payout
-
-Day 11: x2 payout
-
-Day 22: x2 payout
 
 Ports
 -----
